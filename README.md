@@ -1,6 +1,6 @@
 # leo-template
 A responsive and simple leo landing page build by Html and Css.
-Chalnge by Graphberry.
+Chalenge by Graphberry.
 
 ## Preview 
 ![Desktop Preview](./design/Screenshot 2025-06-26 160722.png)
